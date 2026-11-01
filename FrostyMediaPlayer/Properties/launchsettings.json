@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "FrostyMediaPlayer (Unpackaged)": {
+        "commandName": "Project"
+      },
+      "FrostyMediaPlayer (Package)": {
+        "commandName": "MsixPackage"
+      }
+    }
+}
